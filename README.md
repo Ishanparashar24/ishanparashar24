@@ -3,7 +3,7 @@
 - 🔭 I’m currently persuing Bachelor of Technology in Computer science 👨🏻‍💻 | CSE'25🎓
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanparashar24&label=Profile%20views&color=0e75b6&style=flat" alt="ishanparashar24" /> </p>
   ##🌱 I’m currently learning <br> <br>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabalmaurya08&label=Profile%20views&color=0e75b6&style=flat" alt="prabalmaurya08" /> </p>
+  
  
 <!--
 - 👯 I’m looking to collaborate on ...
