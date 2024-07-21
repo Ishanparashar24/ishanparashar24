@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanparashar24&label=Profile%20views&color=0e75b6&style=flat" alt="ishanparashar24" /> </p>
 
 - 🔭 I’m currently persuing Bachelor of Technology in Computer science 👨🏻‍💻 | CSE'25🎓
-- 
+
 <div></div>
   <p align="center">
   <a href="https://skillicons.dev">
