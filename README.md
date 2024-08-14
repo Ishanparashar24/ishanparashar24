@@ -10,11 +10,12 @@
   <p align="center">
   <a href="https://skillicons.dev">
     <h2>🌱 I’m currently learning languages </h2> <br>
-    <img src="https://skillicons.dev/icons?i=kotlin,py,mysql&perline=5" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,py,mysql&perline=5" />
     <h2>🌱in use tools </h2> <br>
-    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,androidstudio,flutter,sqlite,firebase,vscode" />
   </a>
 </p>
+
  
 <!--
 - 👯 I’m looking to collaborate on ...
