@@ -10,9 +10,9 @@
   <p align="center">
   <a href="https://skillicons.dev">
     <h2>🌱 I’m currently learning languages </h2> <br>
-    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,py,mysql&perline=5" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,py,mysql&perline=4" />
     <h2>🌱in use tools </h2> <br>
-    <img src="https://skillicons.dev/icons?i=git,github,figma,androidstudio,flutter,sqlite,firebase,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,androidstudio,flutter,sqlite,firebase,vscode&perline=4" />
   </a>
 </p>
 
