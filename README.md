@@ -1,4 +1,4 @@
-
+<div align="center">
  <h1 align="center">
      Hi there, I'm Ishan Parashar👋
  </h1>
@@ -38,7 +38,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img max-width=1000 src="https://github-profile-trophy.vercel.app/?username=ishanparashar24&column=4&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&no-bg=true"/>
   </a>
-
+</div>
 
 
 
