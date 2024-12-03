@@ -1,4 +1,4 @@
-<div align="center">
+
  <h1 align="center">
      Hi there, I'm Ishan Parashar👋
  </h1>
@@ -21,7 +21,9 @@
     <h2>
         🌱 currently learning languages 
     </h2>
+   <a align="center">
       <img src="https://skillicons.dev/icons?i=kotlin,java,dart,py,mysql&perline=4" />
+   </a>
       <h2>
       🌱in use tools
       </h2> 
@@ -33,12 +35,9 @@
        <h2>
            🏆 Github Profile Trophy
        </h2>
-  </a>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img max-width=1000 src="https://github-profile-trophy.vercel.app/?username=ishanparashar24&column=4&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&no-bg=true"/>
-  </a>
-</div>
+    
+   ![Alt](https://repobeats.axiom.co/api/embed/5fa29cb170cf23e06153840b9fb6659286958a66.svg "Repobeats analytics image")
+
 
 
 
