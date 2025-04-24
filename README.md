@@ -22,13 +22,13 @@
         🌱 currently learning languages 
     </h2>
    <a align="center">
-      <img src="https://skillicons.dev/icons?i=kotlin,java,dart,py,mysql&perline=4" />
+      <img src="https://skillicons.dev/icons?i=kotlin,py,mysql&perline=4" />
    </a>
       <h2>
       🌱in use tools
       </h2> 
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,androidstudio,flutter,sqlite,firebase,vscode&perline=4" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,androidstudio,sqlite,firebase,vscode&perline=4" />
   </a>
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
