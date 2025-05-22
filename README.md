@@ -146,7 +146,6 @@ Feel free to reach out if you want to chat about:
 - Getting started with Kotlin
 - Integrating basic Firebase features
 - Learning resources for mobile development
-- *[Add other topics you're comfortable with or passionate about]*
 
 ---
 
