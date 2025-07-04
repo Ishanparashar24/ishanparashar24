@@ -160,17 +160,11 @@ Feel free to reach out if you want to chat about:
 Let's connect and build something amazing together!
 
 <p align="center">
-  <a href="[Your LinkedIn Profile Link Here]" target="_blank">
+  <a href="https://www.linkedin.com/in/ishanparashar24/">
    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="[Your Personal Website Link Here (Optional)]" target="_blank">
-   <img src="https://skillicons.dev/icons?i=website" alt="Website" />
-  </a>
-  <a href="mailto:[Your Email Address Here]">
+  <a href="mailto:ishanparashar24@gmail.com">
    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  <a href="[Your Other Social Media Link Here (Optional)]" target="_blank">
-   <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
 </p>
 
