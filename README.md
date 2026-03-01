@@ -22,21 +22,6 @@ Beyond Android, I'm also exploring areas like 3D modeling integration using Unit
 
 ---
 
-### GitHub Stats
-
-Thanks for stopping by!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishanparashar24&show_icons=true&theme=radical" alt="Ishan's GitHub Stats" />
-  </p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ishanparashar24&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
-  </a>
-</p>
-
----
 
 ### Skills & Technologies
 
