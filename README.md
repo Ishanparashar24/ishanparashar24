@@ -88,8 +88,6 @@ My primary focus is building Android applications with **Kotlin and modern Andro
 
 ## 📊 GitHub Activity
 
-<br>
-<br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishanparashar24&hide_border=true" alt="GitHub streak">
 </p>
