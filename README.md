@@ -29,18 +29,15 @@ I'm an **Android-focused Mobile Product Developer** who enjoys working at the in
 
 My primary focus is building Android applications with **Kotlin and modern Android technologies**, while also bringing a strong interest in **UI/UX and mobile product design** into the development process.
 
-I enjoy thinking through the complete product journey:
-
-<p align="center">
-  Understand the problem <br>
-  Research the user <br>
-  Design the experience <br>
-  Build the Android product <br>
-  Test <br>
-  Iterate  
-
-</p>
-<br>
+| **I enjoy thinking through the complete product journey:** |
+|---|
+| ✔️ Understand the problem |
+| ✔️ Research the user |
+| ✔️ Design the experience |
+| ✔️ Build the Android product |
+| ✔️ Test |
+| ✔️ Iterate |
+ 
 <p align="center">
   <strong>Build with technology. Design for people. Think in products.</strong>
 </p>
@@ -64,7 +61,6 @@ I enjoy thinking through the complete product journey:
   <img src="https://skillicons.dev/icons?i=firebase,sqlite" alt="Firebase, SQLite">
 </p>
 
-
 | | | |
 |---|---|---|
 | ***Android Core Skills*** | ***UI/UX & Product Design Skills*** | ***Additional Experience***  |
@@ -79,7 +75,6 @@ I enjoy thinking through the complete product journey:
 | Room Database           |                                   | |
 | Firebase                |                                   | |
 
-
 ---
 
 ## 🌱 Currently Focused On
@@ -88,7 +83,6 @@ I enjoy thinking through the complete product journey:
 - Deepening my understanding of Jetpack Compose and modern Android development
 - Improving Android architecture and application quality
 - Strengthening mobile UI/UX and product design skills
-
 
 ---
 
