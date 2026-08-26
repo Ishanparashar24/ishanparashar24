@@ -31,22 +31,19 @@ My primary focus is building Android applications with **Kotlin and modern Andro
 
 I enjoy thinking through the complete product journey:
 
+<p align="center">
+  Understand the problem <br>
+  Research the user <br>
+  Design the experience <br>
+  Build the Android product <br>
+  Test <br>
+  Iterate  
 
-
-<br>
-
-<p>
-  <strong>
-    <h4 align="center"> Understand the problem ➡️ Research the user ➡️ Design the experience ➡️ Build the Android product ➡️ Test ➡️ Iterate</h4>
-  </strong>
-</p>  
-
+</p>
 <br>
 <p align="center">
   <strong>Build with technology. Design for people. Think in products.</strong>
 </p>
-
-<br>
 
 ---
 
@@ -82,8 +79,6 @@ I enjoy thinking through the complete product journey:
 | Room Database           |                                   | |
 | Firebase                |                                   | |
 
-<br>
-<br>
 
 ---
 
@@ -94,7 +89,6 @@ I enjoy thinking through the complete product journey:
 - Improving Android architecture and application quality
 - Strengthening mobile UI/UX and product design skills
 
-<br>
 
 ---
 
